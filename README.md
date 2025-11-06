@@ -3,17 +3,15 @@
 ## Project info
 
 **URL**: https://ecofarm-xi.vercel.app/
-## 👋 Meet Our Team
 
 > The creative minds behind **Green & White** 🌾💡
 
-| Member | Introduction |
-|---------|---------------|
-| 👩‍💻 **Hi, I’m Sumitra Ray!** | I’m from CSE Section C. I love exploring how AI and IoT can make agriculture smarter and more sustainable. I worked on the **system design and architecture** for this project. 🌱 |
-| 👨‍💻 **Hi, I’m Akadeep Das!** | I’m passionate about coding and automation. I focused on the **backend logic and integration** of IoT data into the system. ⚙️ |
-| 👨‍💻 **Hi, I’m Abhishek Ray!** | I enjoy building efficient interfaces and optimizing systems. I contributed to the **web dashboard and user experience** design. 💻 |
-| 👨‍💻 **Hi, I’m Avinash Kumar!** | I love working on data-driven solutions. I helped develop the **AI/ML models** for crop recommendation and pest detection. 🤖 |
+## 👋 Hi, I’m **Suvrajit Patari** 👨‍💻✨
 
+  I love building data-driven systems where **IoT meets AI** to make agriculture smarter, sustainable, and farmer-friendly. Let’s grow tech that actually helps people. 🤖🌱
+
+📘 **Department:** CSE  
+📍 **Section:** C  
 ---
 
 # 🌾 Green & White — Automated Agriculture Monitoring & Recommendation System 🤖
@@ -107,19 +105,6 @@ It combines **IoT sensors**, **cloud processing**, and **machine learning** to t
 
 ---
 
-## 👥 Team Members
-| Name | Role | ID |
-|------|------|----|
-| 👨‍💻 **Akadeep Das** | Project Lead | 165 |
-| 👨‍💻 **Abhishek Ray** | Developer | 162 |
-| 👨‍💻 **Avinash Kumar** | Developer | 167 |
-| 👩‍💻 **Sumitra Ray** | Developer | 179 |
-
-📘 **Department:** CSE  
-📍 **Section:** C  
-
----
-
 ## 🌍 Vision
 > “Building a better and sustainable agricultural future through technology, education, and collaboration.” 🌾  
 
@@ -129,7 +114,7 @@ Empowering farmers with innovation, ensuring fair trade, and promoting ethical, 
 
 ## 💚 Thank You!
 🌱 *Grow with Purpose. Innovate with Impact.*  
-📩 For queries or collaborations, contact: **sumitra.ray2023@iem.edu.in**
+📩 For queries or collaborations, contact: **suvrajit.patari2023@iem.edu.in**
 
 ---
 
